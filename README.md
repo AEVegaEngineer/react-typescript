@@ -1,3 +1,3 @@
-# React+Typescript
+# React+Typescript Repo
 
-A simple React project using TypeScript
+My repository of simple React projects using TypeScript
